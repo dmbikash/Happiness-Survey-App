@@ -1,8 +1,13 @@
 # happiness_survey_android
 
-A new Flutter project.
+Features:   
+1. User can scan ID,  
+2. User can give ratings,  
+3. Error message on improper submission.  
+4. Acknowledgement message on successful submission.  
 
-## Getting Started
+
+## Demo
 
 
 
